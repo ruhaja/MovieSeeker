@@ -1,0 +1,23 @@
+.progress {
+    opacity: 0;
+}
+#movie-listing {
+    list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+    padding: 5px;
+}
+
+#director-of-movie {
+    font-weight: 600;
+}
+
+#actors-of-movie {
+    font-weight: 600;
+}
+
+#imdb-rate-of-movie {
+    font-weight: 800;
+}
